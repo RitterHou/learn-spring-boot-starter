@@ -17,6 +17,8 @@ public class HttpAutoConfiguration {
     @Resource
     private HttpProperties properties;
 
+    // 通过一定的手段或条件来创建bean，然后放入表中，之后从表中获取bean
+
     @Bean
     @ConditionalOnMissingBean
     public HttpClient init() {
