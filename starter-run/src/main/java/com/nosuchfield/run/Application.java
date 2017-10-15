@@ -1,4 +1,4 @@
-package me.hourui.run;
+package com.nosuchfield.run;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

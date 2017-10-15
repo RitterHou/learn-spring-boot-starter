@@ -1,4 +1,4 @@
-package me.hourui.httpstarter;
+package com.nosuchfield.httpstarter;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

@@ -1,4 +1,4 @@
-package me.hourui.httpstarter;
+package com.nosuchfield.httpstarter;
 
 import lombok.Getter;
 import lombok.Setter;
