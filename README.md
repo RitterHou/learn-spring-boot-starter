@@ -11,3 +11,5 @@
 执行应用程序：进入 `starter-run/target/` 目录执行
 
     java -jar starter-run-1.0-SNAPSHOT.jar
+
+[详细信息](https://www.nosuchfield.com/2017/10/15/Spring-Boot-Starters/)
