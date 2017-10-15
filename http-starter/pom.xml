@@ -24,23 +24,4 @@
         </dependency>
     </dependencies>
 
-    <repositories>
-        <repository>
-            <id>qianmi-snapshots</id>
-            <name>intranet public snapshots</name>
-            <url>http://nexus.dev.qianmi.com/nexus/content/repositories/snapshots</url>
-            <snapshots>
-                <updatePolicy>always</updatePolicy>
-            </snapshots>
-        </repository>
-
-        <repository>
-            <id>central</id>
-            <url>http://nexus.dev.qianmi.com/nexus/content/groups/public</url>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-        </repository>
-    </repositories>
-
 </project>
